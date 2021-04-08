@@ -1,9 +1,7 @@
 ## Aplicacion de comandos
 
-Este es el ejercicio del curso
 
-
-recuerden instalar los paqutes de Node
+instalar los paqutes de Node para que corra la aplicacion 
 
 ´´´´´´´´´´´´´´´´´´
    
